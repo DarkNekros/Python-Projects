@@ -3,4 +3,4 @@ To download a full copy of the GIT repository do:
 
 $mkdir myproject
 $cd myproject
-$git clone git@github.com:DarkNekros/Python-Proyects.git
+$git clone git@github.com:DarkNekros/Python-Projects.git
